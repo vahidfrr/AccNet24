@@ -2,7 +2,7 @@
 
 The dataset conatining raw acceleration data can be accessed from here [Capture-24 dataset](https://github.com/OxWearables/capture24)
 
-The Matlab code for traning, validating, and testing the AccNet-24 is in [AccNet24.m](AccNet24.m)
+The Matlab code for traning, validating, and testing the AccNet-24 is in [AccNet24.m](AccNet24.m). This file receives the signal images created with Granu
 ## read the data
 -Update address for rootFolder containing training, validation, and test data (GAF images).  i.e., there is a seperate code for converting signal to GAF images.
 -The folders should contain 4 sub-folders each contaning activity classes (Sleep, SED, LPA, MVPA).  

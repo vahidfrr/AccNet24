@@ -1,7 +1,8 @@
 # AccNet24
 
-The Matlab code for traning, validating, and testing AccNet24 is in AccNet24.m
+The dataset conatining raw acceleration data can be accessed from here [Capture-24 dataset](https://github.com/OxWearables/capture24)
 
+The Matlab code for traning, validating, and testing AccNet24 is in AccNet24.m
 ## read the data
 -Update address for rootFolder containing training, validation, and test data (GAF images).  i.e., there is a seperate code for converting signal to GAF images.
 -The folders should contain 4 sub-folders each contaning activity classes (Sleep, SED, LPA, MVPA).  

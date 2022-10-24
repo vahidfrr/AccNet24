@@ -11,4 +11,4 @@ The Matlab code for traning, validating, and testing the AccNet-24 is in [AccNet
 
 ## pretrained models
 It is possible to simply import the pretained models, and test the data data on new images. 
-The size of the pretrained model is large. Please send an email to Vahid Farrahi. 
+The size of the pretrained model is large. Please send an email to Vahid Farrahi@oulu.fi. 

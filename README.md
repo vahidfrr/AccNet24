@@ -2,13 +2,13 @@
 
 The Matlab code for traning, validating, and testing the AccNet-24 is in [AccNet24.m](AccNet24.m). This file receives the signal images created with  Gramian Angular Field (GAF). Crearing Gramian Angular Field (GAF) images was done with pyts (A Python Package for Time Series Classification). The python code for 
 
-## read the data 
+## Read the data 
 - Update address for rootFolder containing training, validation, and test data (GAF images).  i.e., there is a seperate code for converting signal to GAF images.
 - The folders should contain 4 sub-folders each contaning activity classes (Sleep, Sedentary, LPA, MVPA).  
 - The exact category names (i.e., subfolders) should be provided as categories.
 - It should be noted that we created three images for each 30-second window. You will also need the matlab code for majority voting, if you want to vote between the predictions for in x, y, and z images. 
 
-## pretrained models
+## Pretrained models
 - It is possible to import the pretained models, and test the data data on new images. 
 - The size of the pretrained model is large. Please send an email to Vahid.Farrahi@oulu.fi, if you need the pretrained models. 
 

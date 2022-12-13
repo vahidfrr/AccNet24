@@ -13,6 +13,6 @@ The Matlab code for traning, validating, and testing the AccNet-24 is in [AccNet
 - The size of the pretrained model is large. Please send an email to Vahid.Farrahi@oulu.fi, if you need the pretrained models. 
 
 ## creating Gramian Angular Field (GAF) images.
--For creating GAF images, you need to download the raw acceleration the data. 
--The open access dataset conatining raw acceleration data can be accessed and download from here [Capture-24 dataset](https://github.com/OxWearables/capture24)
+- For creating GAF images, you need to download the raw acceleration the data. 
+- The open access dataset conatining raw acceleration data can be accessed and download from here [Capture-24 dataset](https://github.com/OxWearables/capture24)
 

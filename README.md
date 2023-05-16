@@ -1,6 +1,6 @@
 # AccNet24
 
-The Matlab code for traning, validating, and testing the AccNet-24 is in [AccNet24.m](AccNet24.m). This file receives the signal images created with  Gramian Angular Field (GAF). Crearing Gramian Angular Field (GAF) images was done with pyts (A Python Package for Time Series Classification). The Jypiter notebook [Create_GAF_images.ipynb](Create_GAF_images.ipynb)contains the code for creating GAF images.
+The Matlab code for traning, validating, and testing the AccNet-24 is in [AccNet24.m](AccNet24.m). This file receives the signal images created with  Gramian Angular Field (GAF). Crearing Gramian Angular Field (GAF) images was done with pyts (A Python Package for Time Series Classification). The Jypiter notebook [Create_GAF_images.ipynb] (Create_GAF_images.ipynb)contains the code for creating GAF images.
 
 ## Read the data 
 - Update address for rootFolder containing training, validation, and test data (GAF images).  i.e., there is a seperate code for converting signal to GAF images.
